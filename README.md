@@ -43,9 +43,6 @@ Commands and Keys
     // open file from internet
     cat('mkfifo.3.html');
 
-    // in one line
-    cat('kosmos.yaml')
-
 One line example:
 
     cd('root'); mk('https://raw.githubusercontent.com/fantasyui-com/poems/master/samples/kosmos.yaml'); ls(); cat('kosmos.yaml');
