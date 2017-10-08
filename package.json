@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/fantasyui-com/node.sh/issues"
   },
-  "homepage": "https://github.com/fantasyui-com/node.sh#readme"
+  "homepage": "https://github.com/fantasyui-com/node.sh#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
 }
